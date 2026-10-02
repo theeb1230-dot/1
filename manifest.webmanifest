@@ -1,0 +1,11 @@
+{
+  "name": "THEEB Network Control Center",
+  "short_name": "THEEB Net",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#070b14",
+  "lang": "ar",
+  "dir": "rtl",
+  "description": "Browser-side network diagnostics and controlled traffic lab"
+}
